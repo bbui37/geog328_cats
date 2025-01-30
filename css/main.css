@@ -35,7 +35,7 @@
 /* Style for page content */
 .content {
   padding: 14px;
-  font-size: 22px;
+  font-size: 25px;
 }
 
 /* Style the video: 100% width and height to cover the entire window */
@@ -60,11 +60,11 @@
 }
 
 #myDIV {
-  width: 100%;
-  padding: 50px 0;
+  width: 50%;
+  padding: 20px 0;
   text-align: center;
   background-color: lightblue;
-  margin-top: 36px;
+  margin-top: 10px;
   font-size: 25px;
 }
 
